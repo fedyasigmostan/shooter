@@ -5,3 +5,5 @@ in shooter you can explode ufo and earn points
 build the exe file you can in console with pyinstaller
 
 `pyinstaller --onefile shooter_game.py`
+
+SDfkkkkkkkkkkkkkkk
